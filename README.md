@@ -2,6 +2,7 @@ Biggest portal for getting information what to do in Tallinn is [Visit Estonia](
 Here we will list some of our favorite places and things to do in Tallinn. 
 
 ## Table of contents
+* [Transportation](#transportation)
 * [Walking](#walking)
   * [Old Town](#old-town)
   * [Kadriorg park](#kadriorg-park)
@@ -11,21 +12,32 @@ Here we will list some of our favorite places and things to do in Tallinn.
   * [Tallinn TV Tower](#tallinn-tv-tower)
   * [Kumu Art Museum](#kumu-art-museum)
 * [Food](#food)
-   * [Lyon Cafe](#lyon-cafe)
-   * [Grenka](#grenka)
-   * [Gourmet Coffee City](#gourmet-coffee-city)
-   * [Gourmet Coffee Kadriorg](#gourmet-coffee-kadriorg)
-   * [Renard Speed Shop](#renard-speed-shop)
-   * [Uulits](#uulits)
-   * [Boheem](#boheem)
-   * [Olde Hansa](#olde-hansa)
-   * [NOP](#nop)
-   * [Kolm Sibulat](#kolm-sibulat)
+  * [Lyon Cafe](#lyon-cafe)
+  * [Grenka](#grenka)
+  * [Gourmet Coffee City](#gourmet-coffee-city)
+  * [Gourmet Coffee Kadriorg](#gourmet-coffee-kadriorg)
+  * [Renard Speed Shop](#renard-speed-shop)
+  * [Uulits](#uulits)
+  * [Boheem](#boheem)
+  * [Olde Hansa](#olde-hansa)
+  * [NOP](#nop)
+  * [Kolm Sibulat](#kolm-sibulat)
+  * [Lendav Taldrik](#lendav-taldrik)
+  * [Kivi Paber Käärid](#kivi-paber-käärid)
 * [Souvenirs and design shops](#souvenirs-and-design-shops)
-   * [Oma Asi d_sign](#oma-asi-d_sign)
-   * [Tali](#tali)
-   * [Les Petites](#les-petites)
-   * [Krunnipea Butiik](#krunnipea-butiik)
+  * [Oma Asi d_sign](#oma-asi-d_sign)
+  * [Tali](#tali)
+  * [Les Petites](#les-petites)
+  * [Krunnipea Butiik](#krunnipea-butiik)
+
+## Transportation
+General proposed way of exploring Tallinn is _on foot_. 
+However, it might rain or you are tired and etc - then it's _Uber_. 
+
+Wouldn't even try public transport - for guests it's [quite expensive](http://www.tallinn.ee/eng/pilet/Ticket-prices). In the end, you most probably will pay the same amount in Uber and in public transport (if there are at least two of you). 
+
+Also, with Uber you get a chance to ride in TeslaS, latest Audi's, Lexus'es or BMW's?
+It's true fact that Uber presented Tallinn with 3 Tesla S, there is also rumor that there is Uber Tesla X :)
 
 ## Walking
 
@@ -103,6 +115,13 @@ Hipsterish food with style near Kadriorg park
 
 #### [Kolm Sibulat](http://www.kolmsibulat.eu/)
 International cuisine with touch of Estonia.
+
+#### [Lendav Taldrik](https://www.visitestonia.com/en/restaurant-lendav-taldrik)
+Asian-inspired cuisine in Telliskivi district.
+
+#### [Kivi Paber Käärid](https://www.visitestonia.com/en/gluten-free-restaurant-kivi-paber-kaarid)
+100% gluten-free cuisine offers a simple but fresh approach to healthy eating in Telliskivi district.
+
 
 ## Souvenirs and design shops
 
