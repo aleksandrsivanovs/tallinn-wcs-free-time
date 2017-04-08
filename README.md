@@ -66,7 +66,9 @@ A bit far, but nice views on Tallinn. For an additional fee, visitors can try th
 A must-see for culture creatures, Kumu, the main building of Art Museum of Estonia, serves both as Estonia's national gallery and as a centre for contemporary art.
 
 ## Food
-Tallinn is very good for gourmet tourism, but here are some our favorite places 
+Tallinn is very good for gourmet tourism, but here are some our favorite places.
+
+*N.B.:* Tallinn is small city, if you decided to go to some place for food it's wise to call to the place in advance to make sure that you will have place :)
 
 #### [Lyon Cafe](https://cafelyon.ee/viru-lyon/)
 Tallinn's attempt to make French café. 
