@@ -32,9 +32,11 @@ Here we will list some of our favorite places and things to do in Tallinn.
 
 ## Transportation
 General proposed way of exploring Tallinn is _on foot_. 
-However, it might rain or you are tired and etc - then it's _Uber_. 
+However, it might rain or you are tired and etc - then it's _public transport_ or  _Uber_. 
 
-Wouldn't even try public transport - for guests it's [quite expensive](http://www.tallinn.ee/eng/pilet/Ticket-prices). In the end, you most probably will pay the same amount in Uber and in public transport (if there are at least two of you). 
+Public transport is [quite expensive](www.tallinn.pilet.ee/buy) for guests. It starts to make sense if you take daily or more ticket.
+
+If it's small amount of short trips or if there are at least two of you - then in the end, you most probably will pay the same amount in Uber and in public transport. 
 
 Also, with Uber you get a chance to ride in TeslaS, latest Audi's, Lexus'es or BMW's?
 It's true fact that Uber presented Tallinn with 3 Tesla S, there is also rumor that there is Uber Tesla X :)
