@@ -11,23 +11,21 @@ Here we will list some of our favorite places and things to do in Tallinn.
   * [Tallinn TV Tower](#tallinn-tv-tower)
   * [Kumu Art Museum](#kumu-art-museum)
 * [Food](#food)
-  * [Breakfast](#breakfast)
-    + [Lyon Cafe](#lyon-cafe)
-    + [Grenka](#grenka)
-    + [Gourmet Coffee City](#gourmet-coffee-city)
-    + [Gourmet Coffee Kadriorg](#gourmet-coffee-kadriorg)
-    + [Renard Speed Shop](#renard-speed-shop)
-  * [Lunch and dinner](#lunch-and-dinner)
-    + [Uulits](#uulits)
-    + [Boheem](#boheem)
-    + [Olde Hansa](#olde-hansa)
-    + [NOP](#nop)
-    + [Kolm Sibulat](#kolm-sibulat)
+   * [Lyon Cafe](#lyon-cafe)
+   * [Grenka](#grenka)
+   * [Gourmet Coffee City](#gourmet-coffee-city)
+   * [Gourmet Coffee Kadriorg](#gourmet-coffee-kadriorg)
+   * [Renard Speed Shop](#renard-speed-shop)
+   * [Uulits](#uulits)
+   * [Boheem](#boheem)
+   * [Olde Hansa](#olde-hansa)
+   * [NOP](#nop)
+   * [Kolm Sibulat](#kolm-sibulat)
 * [Souvenirs and design shops](#souvenirs-and-design-shops)
-    + [Oma Asi d_sign](#oma-asi-d_sign)
-    + [Tali](#tali)
-    + [Les Petites](#les-petites)
-    + [Krunnipea Butiik](#krunnipea-butiik)
+   * [Oma Asi d_sign](#oma-asi-d_sign)
+   * [Tali](#tali)
+   * [Les Petites](#les-petites)
+   * [Krunnipea Butiik](#krunnipea-butiik)
 
 ## Walking
 
@@ -42,8 +40,8 @@ While walking down from Toompea hill, enjoy nice views of old city and get some 
 Don't forget to get to [Raekoja plats](https://goo.gl/maps/QtPX4Es7BkG2) and grab some [spiced almonds](http://www.spottedbylocals.com/tallinn/olde-hansa-spiced-almonds) near [Olde Hansa](http://www.oldehansa.ee/?lang=en).
 
 ### [Kadriorg park](https://www.visitestonia.com/en/kadriorg-park)
-Kadirorg is Estonian for "Catherine's Valley". People from St. Petersburg will notice something very familiar - the place is built around Catherinethal, a Baroque palace of Catherine I of Russia (_attention:_ don't think of this as "palace" in Peterhof way, this is roughly 100x times smaller).
-Very nice park to walk around and relax. Recomendation is to walk up to [Japanese Garden](https://www.visitestonia.com/en/japanese-garden-in-kardiorg-park), however, not sure it will be at it's full potential in April :)
+Kadriorg is Estonian for "Catherine's Valley". People from St. Petersburg will notice something very familiar - the place is built around Catherinethal, a Baroque palace of Catherine I of Russia (_attention:_ don't think of this as "palace" in Peterhof way, this is roughly 100x times smaller).
+Very nice park to walk around and relax. Recommendation is to walk up to [Japanese Garden](https://www.visitestonia.com/en/japanese-garden-in-kardiorg-park), however, not sure it will be at it's full potential in April :)
 
 _Pro-tip:_ grab the best coffee in Baltics in [Gourmet Coffee](https://www.facebook.com/GourmetCoffee.ee/) - the baristas know their work very well and selection of coffee is amazing.
 
@@ -70,40 +68,36 @@ A must-see for culture creatures, Kumu, the main building of Art Museum of Eston
 ## Food
 Tallinn is very good for gourmet tourism, but here are some our favorite places 
 
-### Breakfast 
-There are many places to grab morning food. We'll list couple of personal favourites.
-
 #### [Lyon Cafe](https://cafelyon.ee/viru-lyon/)
 Tallinn's attempt to make French café. 
-And very good attempt: tasty cakes, crousants and buns (_attention:_ dear French people, please don't judge :))
+And very good attempt: tasty cakes, croissants and buns (_attention:_ dear French people, please don't judge :))
 
 #### [Grenka](http://grenka.ee)
 Tasty food with "grenkas", pancakes and pies. 
 
 #### [Gourmet Coffee City](https://www.facebook.com/gccityyyy/)
-Enjoy some coffee (good selection of different kinds and styles) and eat some breakfast - sandwitch, porridge and cakes.
+Enjoy some coffee (good selection of different kinds and styles) and eat some breakfast - sandwich, porridge and cakes.
 
 #### [Gourmet Coffee Kadriorg](https://www.facebook.com/GourmetCoffee.ee/)
 Enjoy some coffee (good selection of different kinds and styles) and pies/cakes.
 
 #### [Renard Speed Shop](https://www.facebook.com/renardspeedshop/)
 For all motorcycle enthusiasts and for people who _dig_ custom bikes.
-Enjoy coffee and cakes in hipsterish Telliskivi area in a motorshop while observing some of the most beautiful custom motorcycles built in Tallinn.
+Enjoy coffee and cakes in hipsterish Telliskivi area in a motor shop while observing some of the most beautiful custom motorcycles built in Tallinn.
 
-### Lunch and dinner
 #### [Uulits](https://www.uulits.ee/)
 Probably the best burgers in Tallinn - good selection of juicy and tasty burgers right in the middle of hipsterish Kalamaja district.
 
-_Pro-tip_: very close to the venue of Eesti Spring Swing 2017. you can choose bruger with buns or wrapped in lavash.
+_Pro-tip_: very close to the venue of Eesti Spring Swing 2017. you can choose burger with buns or wrapped in lavash.
 
 #### [Boheem](https://www.facebook.com/Boheem.Kohvik.Kalamajas/)
-Hipsterish food and atmosphere in the heard of hipsterish Kalamaja discrict
+Hipsterish food and atmosphere in the heart of hipsterish Kalamaja district
 
 #### [Olde Hansa](http://www.oldehansa.ee/?lang=en)
-If you are into medieval-like food and interiors - eat and drink at Old Hansa.
+If you are into medieval-like food and interiors - eat and drink at Olde Hansa.
 
 #### [NOP](https://www.facebook.com/kohviknop/)
-Hipsterish food with style near Kardiorg park
+Hipsterish food with style near Kadriorg park
 
 #### [Kolm Sibulat](http://www.kolmsibulat.eu/)
 International cuisine with touch of Estonia.
