@@ -46,10 +46,14 @@ _Pro-tip:_ personal favorites in Kalevi Yacht Club - smoked cheese soup and smok
 Tallinn is very good for gourmet tourism, but here are some our favorite places 
 
 ### Breakfast 
-there are many places to grab morning food. We'll list couple of personal favourites.
+There are many places to grab morning food. We'll list couple of personal favourites.
+
+#### [Lyon Cafe](https://cafelyon.ee/viru-lyon/)
+Tallinn's attempt to make French café. 
+And very good attempt: tasty cakes, crousants and buns (_attention:_ dear French people, please don't judge :))
 
 #### [Grenka](http://grenka.ee)
-tasty food with "grenkas", pancakes and pies. 
+Tasty food with "grenkas", pancakes and pies. 
 
 #### [Gourmet Coffee City](https://www.facebook.com/gccityyyy/)
 Enjoy some coffee (good selection of different kinds and styles) and eat some breakfast - sandwitch, porridge and cakes.
@@ -63,21 +67,21 @@ Enjoy coffee and cakes in hipsterish Telliskivi area in a motorshop while observ
 
 ### Lunch and dinner
 #### [Uulits](https://www.uulits.ee/)
-probably the best burgers in Tallinn - good selection of juicy and tasty burgers right in the middle of hipsterish Kalamaja district.
+Probably the best burgers in Tallinn - good selection of juicy and tasty burgers right in the middle of hipsterish Kalamaja district.
 
 _Pro-tip_: very close to the venue of Eesti Spring Swing 2017. you can choose bruger with buns or wrapped in lavash.
 
 #### [Boheem](https://www.facebook.com/Boheem.Kohvik.Kalamajas/)
-hipsterish food and atmosphere in the heard of hipsterish Kalamaja discrict
+Hipsterish food and atmosphere in the heard of hipsterish Kalamaja discrict
 
 #### [Olde Hansa](http://www.oldehansa.ee/?lang=en)
 If you are into medieval-like food and interiors - eat and drink at Old Hansa.
 
 #### [NOP](https://www.facebook.com/kohviknop/)
-hipsterish food with style near Kardiorg park
+Hipsterish food with style near Kardiorg park
 
 #### [Kolm Sibulat](http://www.kolmsibulat.eu/)
-international cuisine with touch of Estonia.
+International cuisine with touch of Estonia.
 
 
 
