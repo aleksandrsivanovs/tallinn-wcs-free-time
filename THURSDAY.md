@@ -14,10 +14,11 @@
 > Plan is to walk around Old Town, might be eat some [spiced almods](http://www.spottedbylocals.com/tallinn/olde-hansa-spiced-almonds) and etc.
 6. evening shots / cocktails:
 > we have some options to choose from, depends on what we'll want
-a. [Labor bar](https://www.facebook.com/LaborBaar/)
+* [Labor bar](https://www.facebook.com/LaborBaar/)
 >> serve coctails and shots in chemical outfit
-b. [Restaurant-club Clazz](http://www.clazz.ee/)
+* [Restaurant-club Clazz](http://www.clazz.ee/)
 >> live music, club 
+
 >> _N.B._ entrance fee might be present
-c. [Drink bar](https://www.visittallinn.ee/eng/visitor/eat-drink/bars-pubs/pid-176830/drink-bar-and-grill)
+* [Drink bar](https://www.visittallinn.ee/eng/visitor/eat-drink/bars-pubs/pid-176830/drink-bar-and-grill)
 >> beer, beer, beeeeeeer!
