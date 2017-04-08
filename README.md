@@ -2,14 +2,14 @@ Biggest portal for getting information what to do in Tallinn is [Visit Estonia](
 Here we will list some of our favorite places and things to do in Tallinn. 
 
 ## Table of contents
-* [Museums](#museums)
-  * [Lennusadam museum](#lennusadam-museum)
-  * [Tallinn TV Tower](#tallinn-tv-tower)
-  * [Kumu Art Museum](#kumu-art-museum)
 * [Walking](#walking)
   * [Old Town](#old-town)
   * [Kadriorg park](#kadriorg-park)
   * [Pirita beach](#pirita-beach)
+* [Museums](#museums)
+  * [Lennusadam museum](#lennusadam-museum)
+  * [Tallinn TV Tower](#tallinn-tv-tower)
+  * [Kumu Art Museum](#kumu-art-museum)
 * [Food](#food)
   * [Breakfast](#breakfast)
     + [Lyon Cafe](#lyon-cafe)
@@ -23,19 +23,11 @@ Here we will list some of our favorite places and things to do in Tallinn.
     + [Olde Hansa](#olde-hansa)
     + [NOP](#nop)
     + [Kolm Sibulat](#kolm-sibulat)
-
-
-## Museums
-
-### [Lennusadam museum](http://meremuuseum.ee/lennusadam/en/)
-Sea history (ships & planes & submarines) museum. 
-Very modern looking and nicely made exposition.
-
-### [Tallinn TV Tower](http://www.teletorn.ee/en/)
-A bit far, but nice views on Tallinn. For an additional fee, visitors can try the “Walking On The Edge” attraction at the top of the viewing platform. 
-
-### [Kumu Art Museum](http://kumu.ekm.ee/en/)
-A must-see for culture creatures, Kumu, the main building of Art Museum of Estonia, serves both as Estonia's national gallery and as a centre for contemporary art.
+* [Souvenirs and design shops](#souvenirs-and-design-shops)
+    + [Oma Asi d_sign](#oma-asi-d_sign)
+    + [Tali](#tali)
+    + [Les Petites](#les-petites)
+    + [Krunnipea Butiik](#krunnipea-butiik)
 
 ## Walking
 
@@ -45,9 +37,7 @@ Walk up to the Toompea hill, get to the viewing platforms and take a look at Tal
 * [Kohtuotsa viewing platform](https://goo.gl/maps/u7aiNmHvm1o)
 * [Piiskopi viewing platform](https://goo.gl/maps/bAv7RnHCUNH2)
 
-While walking down from Toompea hill, enjoy nice views of old city and get some of Tallinn back home from souvenir shops.
-
-_Pro-tip:_ pesonal favourites souvenir/gift shops are small designer places like [Oma Asi](http://omaasi.com/#contacts)
+While walking down from Toompea hill, enjoy nice views of old city and get some of Tallinn back home from [souvenir and design shops](#souvenirs-and-design-shops).
 
 Don't forget to get to [Raekoja plats](https://goo.gl/maps/QtPX4Es7BkG2) and grab some [spiced almonds](http://www.spottedbylocals.com/tallinn/olde-hansa-spiced-almonds) near [Olde Hansa](http://www.oldehansa.ee/?lang=en).
 
@@ -65,6 +55,17 @@ You can get some food and coffee/drinks in the [Kalevi Yacht Club](https://www.v
 
 _Pro-tip:_ personal favorites in Kalevi Yacht Club - smoked cheese soup and smoked eel
 
+## Museums
+
+### [Lennusadam museum](http://meremuuseum.ee/lennusadam/en/)
+Sea history (ships & planes & submarines) museum. 
+Very modern looking and nicely made exposition.
+
+### [Tallinn TV Tower](http://www.teletorn.ee/en/)
+A bit far, but nice views on Tallinn. For an additional fee, visitors can try the “Walking On The Edge” attraction at the top of the viewing platform. 
+
+### [Kumu Art Museum](http://kumu.ekm.ee/en/)
+A must-see for culture creatures, Kumu, the main building of Art Museum of Estonia, serves both as Estonia's national gallery and as a centre for contemporary art.
 
 ## Food
 Tallinn is very good for gourmet tourism, but here are some our favorite places 
@@ -107,6 +108,20 @@ Hipsterish food with style near Kardiorg park
 #### [Kolm Sibulat](http://www.kolmsibulat.eu/)
 International cuisine with touch of Estonia.
 
+## Souvenirs and design shops
+
+### [Oma Asi d_sign](http://omaasi.com/#contacts)
+Oma Asi d_sign store introduces the creation of the latest and most exciting local and international designers. We offer a wide selection of jewellery, ceramics, clothes, interior design elements, and a plethora of brilliant life style products.
+
+### [Tali](https://www.visitestonia.com/en/estonian-design-shop-tali)
+Tali is one of the largest design stores in Estonia. 
+Carefully selected products – jewellery, leather goods, clothing, and furniture –provide an excellent overview of the local designers. 
+
+### [Les Petites](https://www.visitestonia.com/en/les-petites-design-shop)
+This is a shop selling design and handicraft, representing many Estonian brands and a total of about 80 local designers. 
+
+### [Krunnipea Butiik](https://www.visitestonia.com/en/estonian-design-and-handicraft-shop-krunnipea-butiik)
+The boutique's selection, focussed more on a romantic style, includes jewellery, accessories, ceramics, home design items, clothes, etc.
 
 
 
