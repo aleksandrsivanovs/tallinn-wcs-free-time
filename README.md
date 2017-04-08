@@ -1,6 +1,30 @@
 Biggest portal for getting information what to do in Tallinn is [Visit Estonia](https://www.visitestonia.com/en/).
 Here we will list some of our favorite places and things to do in Tallinn. 
 
+## Table of contents
+* [Museums](#museums)
+  * [Lennusadam museum](#lennusadam-museum)
+  * [Tallinn TV Tower](#tallinn-tv-tower)
+  * [Kumu Art Museum](#kumu-art-museum)
+* [Walking](#walking)
+  * [Old Town](#old-town)
+  * [Kadriorg park](#kadriorg-park)
+  * [Pirita beach](#pirita-beach)
+* [Food](#food)
+  * [Breakfast](#breakfast)
+    + [Lyon Cafe](#lyon-cafe)
+    + [Grenka](#grenka)
+    + [Gourmet Coffee City](#gourmet-coffee-city)
+    + [Gourmet Coffee Kadriorg](#gourmet-coffee-kadriorg)
+    + [Renard Speed Shop](#renard-speed-shop)
+  * [Lunch and dinner](#lunch-and-dinner)
+    + [Uulits](#uulits)
+    + [Boheem](#boheem)
+    + [Olde Hansa](#olde-hansa)
+    + [NOP](#nop)
+    + [Kolm Sibulat](#kolm-sibulat)
+
+
 ## Museums
 
 ### [Lennusadam museum](http://meremuuseum.ee/lennusadam/en/)
@@ -15,7 +39,7 @@ A must-see for culture creatures, Kumu, the main building of Art Museum of Eston
 
 ## Walking
 
-### Old Town:
+### Old Town
 Walk up to the Toompea hill, get to the viewing platforms and take a look at Tallinn panoramas of Old Town's rooftops and towers against the backdrop of the modern city skyline:
 * [Patkuli viewing platform](https://goo.gl/maps/GWRzXLLT9Qv)
 * [Kohtuotsa viewing platform](https://goo.gl/maps/u7aiNmHvm1o)
@@ -27,8 +51,8 @@ _Pro-tip:_ pesonal favourites souvenir/gift shops are small designer places like
 
 Don't forget to get to [Raekoja plats](https://goo.gl/maps/QtPX4Es7BkG2) and grab some [spiced almonds](http://www.spottedbylocals.com/tallinn/olde-hansa-spiced-almonds) near [Olde Hansa](http://www.oldehansa.ee/?lang=en).
 
-### [Kadriorg (Estonian for "Catherine's Valley") park](https://www.visitestonia.com/en/kadriorg-park). 
-People from St. Petersburg will notice something very familiar - the place is built around Catherinethal, a Baroque palace of Catherine I of Russia (_attention:_ don't think of this as "palace" in Peterhof way, this is roughly 100x times smaller).
+### [Kadriorg park](https://www.visitestonia.com/en/kadriorg-park)
+Kadirorg is Estonian for "Catherine's Valley". People from St. Petersburg will notice something very familiar - the place is built around Catherinethal, a Baroque palace of Catherine I of Russia (_attention:_ don't think of this as "palace" in Peterhof way, this is roughly 100x times smaller).
 Very nice park to walk around and relax. Recomendation is to walk up to [Japanese Garden](https://www.visitestonia.com/en/japanese-garden-in-kardiorg-park), however, not sure it will be at it's full potential in April :)
 
 _Pro-tip:_ grab the best coffee in Baltics in [Gourmet Coffee](https://www.facebook.com/GourmetCoffee.ee/) - the baristas know their work very well and selection of coffee is amazing.
