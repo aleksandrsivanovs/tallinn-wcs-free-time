@@ -9,7 +9,8 @@
 4. [Valli bar](https://www.visitestonia.com/en/bar-valli)
 > This legendary bar is a true anachronism and a welcome sight to anyone interested in a 70s-style drinking environment.
 > There is very strange tradition: once in your life you must drink one Millimallikas shot. 
-> _N.B._ Steve Ballmer [did it](https://www.microsoft.com/global/en-us/news/publishingimages/Steve_Ballmer_Drops_by_Estonia_to_Visit_Skype_Employees_Page.jpg)
+
+> _Steve Ballmer [did it](https://www.microsoft.com/global/en-us/news/publishingimages/Steve_Ballmer_Drops_by_Estonia_to_Visit_Skype_Employees_Page.jpg)_
 5. _Old Town walk (optional)_
 > Plan is to walk around Old Town, might be eat some [spiced almods](http://www.spottedbylocals.com/tallinn/olde-hansa-spiced-almonds) and etc.
 6. evening shots / cocktails:
