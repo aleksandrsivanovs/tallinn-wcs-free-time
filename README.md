@@ -47,6 +47,8 @@ Walk up to the Toompea hill, get to the viewing platforms and take a look at Tal
 * [Kohtuotsa viewing platform](https://goo.gl/maps/u7aiNmHvm1o)
 * [Piiskopi viewing platform](https://goo.gl/maps/bAv7RnHCUNH2)
 
+_Pro-tip:_ you can meet the Seagull on Patkulli or Kohtuotsa viewing platforms. This Seagull is very photogenic and for some reason not afraid of people, and because of that [became quite popular](https://www.google.ee/search?q=seagull+tallinn+old+town&espv=2&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjB5Ne6nZXTAhWCCpoKHSCeDM0Q_AUIBigB&biw=1637&bih=953#imgrc=_). 
+
 While walking down from Toompea hill, enjoy nice views of old city and get some of Tallinn back home from [souvenir and design shops](#souvenirs-and-design-shops).
 
 Don't forget to get to [Raekoja plats](https://goo.gl/maps/QtPX4Es7BkG2) and grab some [spiced almonds](http://www.spottedbylocals.com/tallinn/olde-hansa-spiced-almonds) near [Olde Hansa](http://www.oldehansa.ee/?lang=en).
