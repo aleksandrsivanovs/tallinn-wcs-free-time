@@ -24,6 +24,7 @@ Here we will list some of our favorite places and things to do in Tallinn.
   * [Kolm Sibulat](#kolm-sibulat)
   * [Lendav Taldrik](#lendav-taldrik)
   * [Kivi Paber Käärid](#kivi-paber-käärid)
+  * [Vapiano](#vapiano)
 * [Souvenirs and design shops](#souvenirs-and-design-shops)
   * [Oma Asi d_sign](#oma-asi-d_sign)
   * [Tali](#tali)
@@ -126,6 +127,8 @@ Asian-inspired cuisine in Telliskivi district.
 #### [Kivi Paber Käärid](https://www.visitestonia.com/en/gluten-free-restaurant-kivi-paber-kaarid)
 100% gluten-free cuisine offers a simple but fresh approach to healthy eating in Telliskivi district.
 
+#### [Vapiano](http://www.vapiano.ee/)
+If you are up for quick food in italian style - try "Italian Mc'Donalds" (as people call it) Vapiano. Good (and comparabely cheap) selection of pastas, pizzas and salads.
 
 ## Souvenirs and design shops
 
