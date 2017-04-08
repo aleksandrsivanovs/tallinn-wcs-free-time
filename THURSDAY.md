@@ -17,11 +17,11 @@
 > we have some options to choose from, depends on what we'll want
 * [Sigmund Freud bar](https://www.facebook.com/SigmundFreudBar/)
 >> some say, the best coctails and shots in Tallinn - cosy and quite small place
-* [Labor bar](https://www.facebook.com/LaborBaar/)
->> serve coctails and shots in chemical outfit
 * [Restaurant-club Clazz](http://www.clazz.ee/)
 >> live music, club 
 
 >> _N.B._ entrance fee might be present
 * [Drink bar](https://www.visittallinn.ee/eng/visitor/eat-drink/bars-pubs/pid-176830/drink-bar-and-grill)
 >> beer, beer, beeeeeeer!
+* [Labor bar](https://www.facebook.com/LaborBaar/)
+>> serve coctails and shots in chemical outfit
