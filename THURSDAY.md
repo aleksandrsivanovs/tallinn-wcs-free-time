@@ -15,6 +15,8 @@
 > Plan is to walk around Old Town, might be eat some [spiced almods](http://www.spottedbylocals.com/tallinn/olde-hansa-spiced-almonds) and etc.
 6. evening shots / cocktails:
 > we have some options to choose from, depends on what we'll want
+* [Sigmund Freud bar](https://www.facebook.com/SigmundFreudBar/)
+>> some say, the best coctails and shots in Tallinn - cosy and quite small place
 * [Labor bar](https://www.facebook.com/LaborBaar/)
 >> serve coctails and shots in chemical outfit
 * [Restaurant-club Clazz](http://www.clazz.ee/)
