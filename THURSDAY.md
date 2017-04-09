@@ -1,5 +1,5 @@
 # Plan for Thursday (13.04.2017) evening
-## Start time: 19:00-ish
+## Start time: 19:00
 0. _To start the evening with some food: dinner at [Uulits](https://www.uulits.ee/) (optional)_
 > Some say, the best burgers in Tallinn
 1. walk around Telliskivi district
