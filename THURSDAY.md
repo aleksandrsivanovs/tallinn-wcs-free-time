@@ -19,8 +19,6 @@
 >> some say, the best coctails and shots in Tallinn - cosy and quite small place
 * [Restaurant-club Clazz](http://www.clazz.ee/)
 >> live music, club 
-
->> _N.B._ entrance fee might be present
 * [Drink bar](https://www.visittallinn.ee/eng/visitor/eat-drink/bars-pubs/pid-176830/drink-bar-and-grill)
 >> beer, beer, beeeeeeer!
 * [Labor bar](https://www.facebook.com/LaborBaar/)
