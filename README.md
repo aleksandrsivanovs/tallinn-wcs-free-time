@@ -1,3 +1,5 @@
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/Tallinn_city_logo.svg/1024px-Tallinn_city_logo.svg.png" width="600" />
+
 Biggest portal for getting information what to do in Tallinn is [Visit Estonia](https://www.visitestonia.com/en/).
 Here we will list some of our favorite places and things to do in Tallinn. 
 
