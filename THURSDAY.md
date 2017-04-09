@@ -1,7 +1,7 @@
 # Plan for Thursday (13.04.2017) evening
 ## Start time: ??:??
-1. _Dinner at [Kolm sibulat](http://www.kolmsibulat.eu/) (optional)_
-> International cuisine with touch of Estonia.
+1. _Dinner at [Uulits](https://www.uulits.ee/) (optional)_
+> Some say, the best burgers in Tallinn
 2. walk around Telliskivi district
 > Plan is to walk around, take a look at [squirrell](https://s-media-cache-ak0.pinimg.com/564x/8d/a3/ef/8da3efe2ad4ac1c635378784a57fcee7.jpg) and local hipsters
 3. [Pudel](https://www.pudel.ee/)
