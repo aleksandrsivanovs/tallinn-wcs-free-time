@@ -11,6 +11,7 @@ Here we will list some of our favorite places and things to do in Tallinn.
   * [Lennusadam museum](#lennusadam-museum)
   * [Tallinn TV Tower](#tallinn-tv-tower)
   * [Kumu Art Museum](#kumu-art-museum)
+* [Food delivery](#food-delivery)
 * [Food](#food)
   * [Lyon Cafe](#lyon-cafe)
   * [Grenka](#grenka)
@@ -82,10 +83,19 @@ A bit far, but nice views on Tallinn. For an additional fee, visitors can try th
 ### [Kumu Art Museum](http://kumu.ekm.ee/en/)
 A must-see for culture creatures, Kumu, the main building of Art Museum of Estonia, serves both as Estonia's national gallery and as a centre for contemporary art.
 
+## Food delivery
+It's possible to order the food from the same (and many more) restaurants and then couriers will bring it to your desired place.
+However, before relying on this option - please check working time and delivery time of the order.
+Some delivery companies:
+* [Wolt](https://wolt.com/)
+* [MyChef.ee](http://www.mychef.ee/)
+* [Tellitoit.ee](https://www.tellitoit.ee/?lang=en)
+
 ## Food
 Tallinn is very good for gourmet tourism, but here are some our favorite places.
 
 *N.B.:* Tallinn is small city, if you decided to go to some place for food it's wise to call to the place in advance to make sure that you will have place :)
+
 
 #### [Lyon Cafe](https://cafelyon.ee/viru-lyon/)
 Tallinn's attempt to make French café. 
