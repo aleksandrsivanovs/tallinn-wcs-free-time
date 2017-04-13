@@ -2,7 +2,7 @@
 ## Start time: 19:00
 0. _To start the evening with some food: dinner at [Uulits](https://www.uulits.ee/) (optional)_
 > Some say, the best burgers in Tallinn
-> _important:_ there are two Uulits, we gather @ Soo tn 1B/6, Tallinn
+> _important:_ there are two Uulits, we gather @ [Soo tn 1B/6, Tallinn](https://goo.gl/maps/yXQG3rr1tjN2)
 1. walk around Telliskivi district
 > Plan is to walk around, take a look at [squirrell](https://s-media-cache-ak0.pinimg.com/564x/8d/a3/ef/8da3efe2ad4ac1c635378784a57fcee7.jpg) and local hipsters
 2. [Pudel](https://www.pudel.ee/)
