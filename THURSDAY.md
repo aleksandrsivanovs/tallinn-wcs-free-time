@@ -1,4 +1,4 @@
-# Plan for Thursday (13.04.2017) evening
+# Plan for Thursday (28.09.2017) evening
 ## Start time: 17:00
 1. [Pudel](https://www.pudel.ee/) (~17:00) [Telliskivi 60a, Tallinn](https://goo.gl/maps/5pADca6STn92)
 > Some say, the best beer place in Tallinn 
