@@ -13,4 +13,4 @@
 > _Steve Ballmer [did it](https://www.microsoft.com/global/en-us/news/publishingimages/Steve_Ballmer_Drops_by_Estonia_to_Visit_Skype_Employees_Page.jpg)_
 5. _Old Town walk (optional, depends on time we have)_
 > Plan is to walk around Old Town, might be eat some [spiced almods](http://www.spottedbylocals.com/tallinn/olde-hansa-spiced-almonds) and etc.
-7. pre-party at [Beerstream](http://beerstream.ee/en/) (21:00) [Lootsi 8, Tallinn](https://goo.gl/maps/tvHHUcteNw52)
+7. Old Town Swing 2017 pre-party at [Beerstream](http://beerstream.ee/en/) (21:00) [Lootsi 8, Tallinn](https://goo.gl/maps/tvHHUcteNw52)
