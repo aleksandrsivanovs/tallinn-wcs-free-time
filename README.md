@@ -8,7 +8,8 @@ Here we will list some of our favorite places and things to do in Tallinn.
 * [Walking](#walking)
   * [Old Town](#old-town)
   * [Kadriorg park](#kadriorg-park)
-  * [Pirita beach](#pirita-beach)
+  * [Port Noblessner](#port-noblessner)
+  * [Pirita beach](#pirita-beach)  
 * [Museums](#museums)
   * [Lennusadam museum](#lennusadam-museum)
   * [Tallinn TV Tower](#tallinn-tv-tower)
@@ -28,6 +29,7 @@ Here we will list some of our favorite places and things to do in Tallinn.
   * [Lendav Taldrik](#lendav-taldrik)
   * [Kivi Paber Käärid](#kivi-paber-käärid)
   * [Vapiano](#vapiano)
+  * [Pitas Gyros](#pitas-gyros)
 * [Souvenirs and design shops](#souvenirs-and-design-shops)
   * [Oma Asi d_sign](#oma-asi-d_sign)
   * [Tali](#tali)
@@ -65,13 +67,16 @@ Very nice park to walk around and relax. Recommendation is to walk up to [Japane
 
 _Pro-tip:_ grab the best coffee in Baltics in [Gourmet Coffee](https://www.facebook.com/GourmetCoffee.ee/) - the baristas know their work very well and selection of coffee is amazing.
 
-
 ### [Pirita beach](https://goo.gl/maps/KkMBRzJAtPA2)
 [Pirita beach](https://goo.gl/maps/KkMBRzJAtPA2) and Pirita yacht marina - one of the best places to breathe in the air and relax.
 Walk around, get to [the end of pier](https://goo.gl/maps/qskSZx5wYVm) and then walk by the beach (or using walking trail near the beach a bit inside the park)
 You can get some food and coffee/drinks in the [Kalevi Yacht Club](https://www.visitestonia.com/en/kalevi-yacht-club).
 
 _Pro-tip:_ personal favorites in Kalevi Yacht Club - smoked cheese soup and smoked eel
+
+### [Port Noblessner](https://goo.gl/maps/cXcQPfxi1FB2)
+[Noblessneri yacht club](https://goo.gl/maps/cXcQPfxi1FB2) - one of the latest additions to yacht marinas in Tallinn, situated on far end of Kalamaja district. 
+You can get some food and coffee/drinks in the [Cafe Noble](https://www.facebook.com/cafe.noble.noblessner/).
 
 ## Museums
 
@@ -119,7 +124,7 @@ Enjoy coffee and cakes in hipsterish Telliskivi area in a motor shop while obser
 #### [Uulits](https://www.uulits.ee/)
 Probably the best burgers in Tallinn - good selection of juicy and tasty burgers right in the middle of hipsterish Kalamaja district.
 
-_Pro-tip_: very close to the venue of Eesti Spring Swing 2017. you can choose burger with buns or wrapped in lavash.
+_Pro-tip_: you can choose burger with buns or wrapped in lavash.
 
 #### [Boheem](https://www.facebook.com/Boheem.Kohvik.Kalamajas/)
 Hipsterish food and atmosphere in the heart of hipsterish Kalamaja district
@@ -141,6 +146,9 @@ Asian-inspired cuisine in Telliskivi district.
 
 #### [Vapiano](http://www.vapiano.ee/)
 If you are up for quick food in italian style - try "Italian Mc'Donalds" (as people call it) Vapiano. Good (and comparabely cheap) selection of pastas, pizzas and salads.
+
+#### [Pitas Gyros](https://www.facebook.com/Pitas-BarFast-food-780923148642823/)
+If you are up for quick food in greek style - try this place. Important note is that on Friday and Saturday it's open until 5am (and on other nights until 1am) - quite rare working time food + Tallinn combination.
 
 ## Souvenirs and design shops
 
