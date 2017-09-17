@@ -31,6 +31,7 @@ Here we will list some of our favorite places and things to do in Tallinn.
   * [Vapiano](#vapiano)
   * [Pitas Gyros](#pitas-gyros)
 * [Souvenirs and design shops](#souvenirs-and-design-shops)
+  * [Telliskivi Poetänav](#telliskivi-poetänav)
   * [Oma Asi d_sign](#oma-asi-d_sign)
   * [Tali](#tali)
   * [Les Petites](#les-petites)
@@ -151,6 +152,9 @@ If you are up for quick food in italian style - try "Italian Mc'Donalds" (as peo
 If you are up for quick food in greek style - try this place. Important note is that on Friday and Saturday it's open until 5am (and on other nights until 1am) - quite rare working time food + Tallinn combination.
 
 ## Souvenirs and design shops
+
+### [Telliskivi Poetänav](http://telliskivi.eu/en/stores/)
+Telliskivi Poetänav translated as "Telliskivi shop's street". This is indoors street of small Estonian design shops in Telliskivi district. You are very welcome to wander around take some of Estonia back with you to your home.
 
 ### [Oma Asi d_sign](http://omaasi.com/#contacts)
 Oma Asi d_sign store introduces the creation of the latest and most exciting local and international designers. We offer a wide selection of jewellery, ceramics, clothes, interior design elements, and a plethora of brilliant life style products.
