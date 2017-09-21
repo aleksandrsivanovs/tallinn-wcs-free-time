@@ -3,8 +3,6 @@ New cafes, bars and galleries have transformed the former industrial complexes o
 
 Often called the “hipsterville” of Tallinn, this once closed off Soviet border zone is conveniently located between the scenic Tallinn coast and Old Town and hides some real architectural gems.
 
-Telliskivi is the hub of Kalamaja with its many restaurants, theatres and an indoor shopping street selling everything from organic cosmetics to Estonian design. Nearby you’ll find Estonia’s largest and coolest maritime museum Seaplane Harbour as well as the once infamous Patarei sea fortress and prison, peeking into the dark history of the past Soviet occupation.
-
 Old Town Swing 2017 will be held in the heart of Kalamaja - in [Salme Kultuurikeskus](http://salme.ee/) on [Salme tn. 12, Tallinn, 10413](https://goo.gl/maps/XJWeH2CZ7LD2)
 
 ## Coffee / Cafe / Bakery
@@ -81,43 +79,43 @@ Friday: 12:00 - 23:00 | Saturday: 12:00 – 02:00 (kitchen closes @ 23:00) | Sun
 
 *Description:* Craft brewery with simple, yet tasty, pub-style food.
 
-### [La tabla]()
-*Address:* []()
+### [La tabla](https://www.latabla.ee/)
+*Address:* [Telliskivi 60, 10149 Tallinn](https://goo.gl/maps/exQYBMWjKPq)
 
-*Distance from venue:* m
+*Distance from venue:* 750m
 
 *Working hours:*
-Friday: 09:00 - 19:00 | Saturday: 11:00 – 19:00 | Sunday: 11:00 – 18:00 
+Friday: 12:00 - 23:00 | Saturday: 12:00 – 23:00 | Sunday: 12:00 – 21:00 
 
 *Description:* Latin American style: tacos, Churrasco, grilled angus beef, a variety of seafood dishes
 
-### [Kivi Paber Käärid]()
-*Address:* []()
+### [Kivi Paber Käärid](http://kivipaber.ee/en/)
+*Address:* [Telliskivi 60a C4, 10149 Tallinn](https://goo.gl/maps/VStzmyLPoBy)
 
-*Distance from venue:* m
+*Distance from venue:* 1000m
 
 *Working hours:*
-Friday: 09:00 - 19:00 | Saturday: 11:00 – 19:00 | Sunday: 11:00 – 18:00 
+Friday: 11:00 - 02:00 | Saturday: 11:00 – 02:00 | Sunday: 11:00 – 23:00 
 
 *Description:* 100% gluten-free cuisine offers a simple but fresh approach to healthy eating.
 
-### [F-Hoone]()
-*Address:* []()
+### [F-Hoone](http://www.fhoone.ee/en/)
+*Address:* [Telliskivi 60, 10412 Tallinn](https://goo.gl/maps/AwLYN7qTUeS2)
 
-*Distance from venue:* m
+*Distance from venue:* 800m
 
 *Working hours:*
-Friday: 09:00 - 19:00 | Saturday: 11:00 – 19:00 | Sunday: 11:00 – 18:00 
+Friday: 09:00 - 24:00 | Saturday: 09:00 – 24:00 | Sunday: 09:00 – 22:00 
 
 *Description:* Good food for reasonably small price. Very popular place amongst locals, so, the place might be full and service might be slow.
 
-### [Lendav Taldrik]()
-*Address:* []()
+### [Lendav Taldrik](http://www.lendavtaldrik.com/en/)
+*Address:* [Telliskivi 60A, 10412 Tallinn](https://goo.gl/maps/VAx4vvXBSem)
 
-*Distance from venue:* m
+*Distance from venue:* 900m
 
 *Working hours:*
-Friday: 09:00 - 19:00 | Saturday: 11:00 – 19:00 | Sunday: 11:00 – 18:00 
+Friday: 12:00 - 01:00 | Saturday: 12:00 – 01:00 | Sunday: 12:00 – 22:00 
 
 *Description:* Asian-inspired cuisine.
 
