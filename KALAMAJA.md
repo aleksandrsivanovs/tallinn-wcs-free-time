@@ -5,6 +5,29 @@ Often called the “hipsterville” of Tallinn, this once closed off Soviet bord
 
 Old Town Swing 2017 will be held in the heart of Kalamaja - in [Salme Kultuurikeskus](http://salme.ee/) on [Salme tn. 12, Tallinn, 10413](https://goo.gl/maps/XJWeH2CZ7LD2)
 
+## Table of contents
+* [Coffee / Cafe / Bakery](#coffee-cafe-bakery)
+  * [T35 Bakery & Speciality Coffee]()
+  * [Renard coffee shop]()
+  * [Reval Cafe]()
+* [Food places](#food-places)
+  * [Soo Uulits]()
+  * [Kohvik Sesoon]()
+  * [Boheem Cafe]()
+  * [St. Vitus]()
+  * [La tabla]()
+  * [Kivi Paber Käärid]()
+  * [F-Hoone]()
+  * [Lendav Taldrik]()
+  * [Bueno Gourmet food track]()
+  * [Depoo street food: Shaurma kebab]()
+  * [Depoo street food: Spice Wagon]()
+* [Supermarkets](#supermarkets)
+  * [Rimi supermarket]()
+  * [mini-Rimi]()
+* [Souvernirs / designer shops](#souvernirs-designer-shops)
+  * [Telliskivi Poetänav]()
+
 ## Coffee / Cafe / Bakery
 ### [T35 Bakery & Speciality Coffee](https://www.facebook.com/T35Bakery/)
 *Address:* [Tööstuse 35, 10413 Tallinn](https://goo.gl/maps/pMf2Dq2mA5U2)
