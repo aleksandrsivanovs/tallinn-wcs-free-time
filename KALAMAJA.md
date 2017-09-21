@@ -214,21 +214,27 @@ Friday: 11:00 - 23:00 | Saturday: 11:00 - 23:00 | Sunday: 11:00 - 23:00
 *Description:* Takeaway wraps, wok, salads, rice, noodles, asian-style takeaway. Selection of Indian vegetarian take away.
 
 ## Supermarkets
-### Rimi near Niine
-Address:
-Distance from venue:
-Working hours:
-Description:
+### Rimi supermarket
+*Address:* [Põhja puiestee 17, 10414 Tallinn](https://goo.gl/maps/AXZB71decMy)
 
-### Rimi in Tellskivi
-Address:
-Distance from venue:
-Working hours:
-Description:
+*Distance from venue:* 1000m
 
-## Souvernirs / shops
-### [Telliskivi Poetänav]()
-Address:
-Distance from venue:
-Working hours:
-Description:
+*Working hours:* 08:00 - 23:00
+
+### mini-Rimi
+*Address:* [Telliskivi 61, 10412 Tallinn](https://goo.gl/maps/3cvwnEAW7g12)
+
+*Distance from venue:* 650m
+
+*Working hours:* 08:00 - 22:00
+
+## Souvernirs / designer shops
+### [Telliskivi Poetänav](http://telliskivi.eu/en/stores/)
+*Address:* [Telliskivi 60A, 10412 Tallinn](https://goo.gl/maps/cXcDVB7SuM42)
+
+*Distance from venue:* 800m
+
+*Working hours:*
+Friday: 11:00 - 19:00 | Saturday: 11:00 - 17:00 | Sunday: 11:00 - 17:00
+
+*Description:* Telliskivi Poetänav translated as "Telliskivi shop's street". This is indoors street of small Estonian design shops in Telliskivi district. You are very welcome to wander around take some of Estonia back with you to your home.
