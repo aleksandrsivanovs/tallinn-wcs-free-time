@@ -21,7 +21,7 @@ Old Town Swing 2017 will be held in the heart of Kalamaja - in [Salme Kultuurike
   * [Lendav Taldrik](#lendav-taldrik)
   * [Bueno Gourmet food track](#bueno-gourmet-food-track)
   * [Depoo street food: Shaurma kebab](#depoo-street-food-shaurma-kebab)
-  * [Depoo street food: Spice Wagon](depoo-street-food-spice-wagon)
+  * [Depoo street food: Spice Wagon](#depoo-street-food-spice-wagon)
 * [Supermarkets](#supermarkets)
   * [Rimi supermarket](#rimi-supermarket)
   * [mini-Rimi](#mini-rimi)
