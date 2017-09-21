@@ -14,7 +14,7 @@ Old Town Swing 2017 will be held in the heart of Kalamaja - in [Salme Kultuurike
   * [Soo Uulits](#soo-uulits)
   * [Kohvik Sesoon](#kohvik-sesoon)
   * [Boheem Cafe](#boheem-cafe)
-  * [St. Vitus](#st--vitus)
+  * [St. Vitus](#st-vitus)
   * [La tabla](#la-tabla)
   * [Kivi Paber Käärid](#kivi-paber-kaarid)
   * [F-Hoone](#f-hoone)
