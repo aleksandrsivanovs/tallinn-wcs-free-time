@@ -25,8 +25,9 @@ Old Town Swing 2017 will be held in the heart of Kalamaja - in [Salme Kultuurike
 * [Supermarkets](#supermarkets)
   * [Rimi supermarket](#rimi-supermarket)
   * [mini-Rimi](#mini-rimi)
+  * [Selver Arsenal](#selver-arsenal)
 * [Souvernirs / designer shops](#souvernirs--designer-shops)
-  * [Telliskivi Poetänav](#telliskivi-poetanav)
+  * [Telliskivi Poetänav](#telliskivi-poetänav)
 
 ## Coffee / Cafe / Bakery
 ### [T35 Bakery & Speciality Coffee](https://www.facebook.com/T35Bakery/)
@@ -248,6 +249,13 @@ Friday: 11:00 - 23:00 | Saturday: 11:00 - 23:00 | Sunday: 11:00 - 23:00
 *Address:* [Telliskivi 61, 10412 Tallinn](https://goo.gl/maps/3cvwnEAW7g12)
 
 *Distance from venue:* 650m
+
+*Working hours:* 08:00 - 22:00
+
+### Selver Arsenal
+*Address:* [Erika 14, 10416 Tallinn](https://goo.gl/maps/4LoxBFa92w32)
+
+*Distance from venue:* 1300m
 
 *Working hours:* 08:00 - 22:00
 
