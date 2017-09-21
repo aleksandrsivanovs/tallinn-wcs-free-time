@@ -14,83 +14,132 @@ Old Town Swing 2017 will be held in the heart of Kalamaja - in [Salme Kultuurike
 *Distance from venue:* 230m
 
 *Working hours:*
-Friday: 09:00 - 15:00 | Saturday: 10:00 – 17:00 | Sunday: 10:00 – 17:00 |
+Friday: 09:00 - 15:00 | Saturday: 10:00 – 17:00 | Sunday: 10:00 – 17:00 
 
 *Description:*
-Closest coffee and bakery place to the venue. Very good coffee (for takeaway as well) and tasty pastries. The only drawback - working hours are quite short.
+Closest coffee and bakery place to the Old Town Swing 2017 venue. Very good coffee (for takeaway as well) and tasty pastries. The only drawback - working hours are quite short.
 
-### Renard motorshop
-Address:
-Distance from venue:
-Working hours:
-Description:
+### [Renard coffee shop](https://www.facebook.com/renardcoffeeshop/)
+*Address:* [Telliskivi 62, 10412 Tallinn](https://goo.gl/maps/PKRFiFDsQPp)
 
-### Reval Coffee
-Address:
-Distance from venue:
-Working hours:
-Description:
+*Distance from venue:* 650m
+
+*Working hours:*
+Friday: 09:00 - 19:00 | Saturday: 11:00 – 19:00 | Sunday: 11:00 – 18:00 
+
+*Description:*
+For all motorcycle enthusiasts and for people who dig custom bikes. Enjoy coffee and cakes in hipsterish Telliskivi area in a motor shop while observing some of the most beautiful custom motorcycles built in Tallinn.
+
+### [Reval Cafe](https://revalcafe.ee/kohvikud/telliskivi/)
+*Address:* [Telliskivi 60a, 10412 Tallinn](https://goo.gl/maps/GxppRvUJdBu)
+
+*Distance from venue:* 800m
+
+*Working hours:*
+Friday: 08:00 - 21:00 | Saturday: 09:00 – 21:00 | Sunday: 09:00 – 19:00 
+
+*Description:* One of the oldest cafe chains in Tallinn. Good coffee and wide selection of pastry.
 
 ## Food places
-### Uulits near Niine
-Address:
-Distance from venue:
-Working hours:
-Description:
+### [Soo Uulits](https://www.uulits.ee/kontakt)
+*Address:* [Soo 1B/6, 10414 Tallinn](https://goo.gl/maps/To67KzAsBK32)
 
-### Kohvik Sesoon
-Address:
-Distance from venue:
-Working hours:
-Description:
+*Distance from venue:* 900m
 
-### Boheem
-Address:
-Distance from venue:
-Working hours:
-Description:
+*Working hours:*
+Friday: 12:00 - 23:00 | Saturday: 12:00 – 23:00 | Sunday: 12:00 – 22:00 
 
-### St. Vitus
-Address:
-Distance from venue:
-Working hours:
-Description:
+*Description:* Probably the best burgers in Tallinn - good selection of juicy and tasty burgers + some craft beer / lemonade.
 
-### La tabla
-Address:
-Distance from venue:
-Working hours:
-Description:
+### [Kohvik Sesoon](http://kohviksesoon.ee/tana-lounaks-234/)
+*Address:* [Niine 11, 10414 Tallinn](https://goo.gl/maps/F3wXe2Lrr562)
 
-### Kivi Paber Käärid
-Address:
-Distance from venue:
-Working hours:
-Description:
+*Distance from venue:* 800m
 
-### F-Hoone
-Address:
-Distance from venue:
-Working hours:
-Description:
+*Working hours:*
+Friday: 11:00 - 23:00 | Saturday: 11:00 – 23:00 | Sunday: 11:00 – 14:00 (brunch only)
 
-### Lendav Taldrik
-Address:
-Distance from venue:
-Working hours:
-Description:
+*Description:* Nice food, seasoned menu.  
 
-### Burgers near Pudel
-Address:
-Distance from venue:
-Working hours:
-Description:
+### [Boheem Cafe](https://www.facebook.com/Boheem.Kohvik.Kalamajas)
+*Address:* [Kopli 18, 10412 Tallinn](https://goo.gl/maps/iRKtGLZRZaG2)
 
-### Depoo street food
-Address:
-Distance from venue:
-Working hours:
-Description:
+*Distance from venue:* 650m
+
+*Working hours:*
+Friday: 09:00 - 23:00 | Saturday: 10:00 – 23:00 | Sunday: 10:00 – 23:00 
+
+*Description:* Very good quality of food + hipsterish atmosphere
+
+### [St. Vitus](http://www.vitus.ee/)
+*Address:* [Telliskivi 61b, 10412 Tallinn](https://goo.gl/maps/nfGHX8ytC8T2)
+
+*Distance from venue:* 650m
+
+*Working hours:*
+Friday: 12:00 - 23:00 | Saturday: 12:00 – 02:00 (kitchen closes @ 23:00) | Sunday: 12:00 – 02:00 (kitchen closes @ 23:00)
+
+*Description:* Craft brewery with simple, yet tasty, pub-style food.
+
+### [La tabla]()
+*Address:* []()
+
+*Distance from venue:* m
+
+*Working hours:*
+Friday: 09:00 - 19:00 | Saturday: 11:00 – 19:00 | Sunday: 11:00 – 18:00 
+
+*Description:* Latin American style: tacos, Churrasco, grilled angus beef, a variety of seafood dishes
+
+### [Kivi Paber Käärid]()
+*Address:* []()
+
+*Distance from venue:* m
+
+*Working hours:*
+Friday: 09:00 - 19:00 | Saturday: 11:00 – 19:00 | Sunday: 11:00 – 18:00 
+
+*Description:* 100% gluten-free cuisine offers a simple but fresh approach to healthy eating.
+
+### [F-Hoone]()
+*Address:* []()
+
+*Distance from venue:* m
+
+*Working hours:*
+Friday: 09:00 - 19:00 | Saturday: 11:00 – 19:00 | Sunday: 11:00 – 18:00 
+
+*Description:* Good food for reasonably small price. Very popular place amongst locals, so, the place might be full and service might be slow.
+
+### [Lendav Taldrik]()
+*Address:* []()
+
+*Distance from venue:* m
+
+*Working hours:*
+Friday: 09:00 - 19:00 | Saturday: 11:00 – 19:00 | Sunday: 11:00 – 18:00 
+
+*Description:* Asian-inspired cuisine.
+
+### [Burgers near Pudel]()
+*Address:* []()
+
+*Distance from venue:* m
+
+*Working hours:*
+Friday: 09:00 - 19:00 | Saturday: 11:00 – 19:00 | Sunday: 11:00 – 18:00 
+
+*Description:* Nice option for take-away food.
+
+### [Depoo street food]()
+*Address:* []()
+
+*Distance from venue:* m
+
+*Working hours:*
+Friday: 09:00 - 19:00 | Saturday: 11:00 – 19:00 | Sunday: 11:00 – 18:00 
+
+*Description:*
 
 ## Supermarkets
 ### Rimi near Niine
@@ -106,7 +155,7 @@ Working hours:
 Description:
 
 ## Souvernirs / shops
-### Telliskivi Poetänav
+### [Telliskivi Poetänav]()
 Address:
 Distance from venue:
 Working hours:
