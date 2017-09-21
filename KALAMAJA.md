@@ -14,6 +14,10 @@ Old Town Swing 2017 will be held in the heart of Kalamaja - in [Salme Kultuurike
 *Working hours:*
 Friday: 09:00 - 15:00 | Saturday: 10:00 – 17:00 | Sunday: 10:00 – 17:00 
 
+*Price range*:
+* coffee 2-3 Eur
+* pastries 2-4 Eur  
+
 *Description:*
 Closest coffee and bakery place to the Old Town Swing 2017 venue. Very good coffee (for takeaway as well) and tasty pastries. The only drawback - working hours are quite short.
 
@@ -24,6 +28,11 @@ Closest coffee and bakery place to the Old Town Swing 2017 venue. Very good coff
 
 *Working hours:*
 Friday: 09:00 - 19:00 | Saturday: 11:00 – 19:00 | Sunday: 11:00 – 18:00 
+
+*Price range*:
+* coffee 2-4 Eur
+* pastries 2-5 Eur  
+* salads 6-10 Eur
 
 *Description:*
 For all motorcycle enthusiasts and for people who dig custom bikes. Enjoy coffee and cakes in hipsterish Telliskivi area in a motor shop while observing some of the most beautiful custom motorcycles built in Tallinn.
@@ -36,6 +45,10 @@ For all motorcycle enthusiasts and for people who dig custom bikes. Enjoy coffee
 *Working hours:*
 Friday: 08:00 - 21:00 | Saturday: 09:00 – 21:00 | Sunday: 09:00 – 19:00 
 
+*Price range*:
+* coffee 2-3 Eur
+* pastries 2-4 Eur  
+
 *Description:* One of the oldest cafe chains in Tallinn. Good coffee and wide selection of pastry.
 
 ## Food places
@@ -47,6 +60,11 @@ Friday: 08:00 - 21:00 | Saturday: 09:00 – 21:00 | Sunday: 09:00 – 19:00
 *Working hours:*
 Friday: 12:00 - 23:00 | Saturday: 12:00 – 23:00 | Sunday: 12:00 – 22:00 
 
+*Price range*:
+* burgers 7-9 Eur
+* beer ~4 Eur  
+* lemonade ~3 Eur
+
 *Description:* Probably the best burgers in Tallinn - good selection of juicy and tasty burgers + some craft beer / lemonade.
 
 ### [Kohvik Sesoon](http://kohviksesoon.ee/tana-lounaks-234/)
@@ -56,6 +74,11 @@ Friday: 12:00 - 23:00 | Saturday: 12:00 – 23:00 | Sunday: 12:00 – 22:00
 
 *Working hours:*
 Friday: 11:00 - 23:00 | Saturday: 11:00 – 23:00 | Sunday: 11:00 – 14:00 (brunch only)
+
+*Price range*:
+* main dishes 8-12 Eur
+* salads ~3 Eur  
+* soups ~4 Eur
 
 *Description:* Nice food, seasoned menu.  
 
@@ -67,6 +90,10 @@ Friday: 11:00 - 23:00 | Saturday: 11:00 – 23:00 | Sunday: 11:00 – 14:00 (bru
 *Working hours:*
 Friday: 09:00 - 23:00 | Saturday: 10:00 – 23:00 | Sunday: 10:00 – 23:00 
 
+*Price range*:
+* soups ~4 Eur
+* main dishes 6-8 Eur
+
 *Description:* Very good quality of food + hipsterish atmosphere
 
 ### [St. Vitus](http://www.vitus.ee/)
@@ -76,6 +103,11 @@ Friday: 09:00 - 23:00 | Saturday: 10:00 – 23:00 | Sunday: 10:00 – 23:00
 
 *Working hours:*
 Friday: 12:00 - 23:00 | Saturday: 12:00 – 02:00 (kitchen closes @ 23:00) | Sunday: 12:00 – 02:00 (kitchen closes @ 23:00)
+
+*Price range*:
+* snacks 4-6 Eur
+* main dishes 7-10 Eur
+* beer ~5 Eur
 
 *Description:* Craft brewery with simple, yet tasty, pub-style food.
 
@@ -87,6 +119,12 @@ Friday: 12:00 - 23:00 | Saturday: 12:00 – 02:00 (kitchen closes @ 23:00) | Sun
 *Working hours:*
 Friday: 12:00 - 23:00 | Saturday: 12:00 – 23:00 | Sunday: 12:00 – 21:00 
 
+*Price range*:
+* salads ~7 Eur
+* soups ~5 Eur
+* taco ~9 Eur
+* main dishes 10-16 Eur
+
 *Description:* Latin American style: tacos, Churrasco, grilled angus beef, a variety of seafood dishes
 
 ### [Kivi Paber Käärid](http://kivipaber.ee/en/)
@@ -96,6 +134,12 @@ Friday: 12:00 - 23:00 | Saturday: 12:00 – 23:00 | Sunday: 12:00 – 21:00
 
 *Working hours:*
 Friday: 11:00 - 02:00 | Saturday: 11:00 – 02:00 | Sunday: 11:00 – 23:00 
+
+*Price range*:
+* snacks 3-5 Eur
+* salads 4-9 Eur
+* soups 5-7 Eur
+* main dishes 8-15 Eur
 
 *Description:* 100% gluten-free cuisine offers a simple but fresh approach to healthy eating.
 
@@ -107,6 +151,12 @@ Friday: 11:00 - 02:00 | Saturday: 11:00 – 02:00 | Sunday: 11:00 – 23:00
 *Working hours:*
 Friday: 09:00 - 24:00 | Saturday: 09:00 – 24:00 | Sunday: 09:00 – 22:00 
 
+*Price range*:
+* starters 5-7 Eur
+* salads ~3 Eur
+* soups ~4 Eur
+* main dishes 5-10 Eur
+
 *Description:* Good food for reasonably small price. Very popular place amongst locals, so, the place might be full and service might be slow.
 
 ### [Lendav Taldrik](http://www.lendavtaldrik.com/en/)
@@ -117,27 +167,51 @@ Friday: 09:00 - 24:00 | Saturday: 09:00 – 24:00 | Sunday: 09:00 – 22:00
 *Working hours:*
 Friday: 12:00 - 01:00 | Saturday: 12:00 – 01:00 | Sunday: 12:00 – 22:00 
 
+*Price range*:
+* snacks/soups 3-5 Eur
+* main dishes 5-10 Eur
+
 *Description:* Asian-inspired cuisine.
 
-### [Burgers near Pudel]()
-*Address:* []()
+### [Bueno Gourmet food track](https://www.facebook.com/Bueno-Gourmet-1479392462305618/)
+*Address:* [Telliskivi 60a, 10412 Tallinn](https://goo.gl/maps/NGDxBFEo5zn)
 
-*Distance from venue:* m
-
-*Working hours:*
-Friday: 09:00 - 19:00 | Saturday: 11:00 – 19:00 | Sunday: 11:00 – 18:00 
-
-*Description:* Nice option for take-away food.
-
-### [Depoo street food]()
-*Address:* []()
-
-*Distance from venue:* m
+*Distance from venue:* 900m
 
 *Working hours:*
-Friday: 09:00 - 19:00 | Saturday: 11:00 – 19:00 | Sunday: 11:00 – 18:00 
+Friday: 12:15 - 00:30 | Saturday: 12:15 – 00:30 | Sunday: closed
 
-*Description:*
+*Price range*: 4-5 Eur
+
+*Description:* Burgers, fajitos, buritos. Nice option for take-away food.
+
+### [Depoo street food: Shaurma kebab](https://goo.gl/maps/Z3MsVAcBRcH2)
+*Address:* [Telliskivi 62, 10412 Tallinn](https://goo.gl/maps/Z3MsVAcBRcH2)
+
+*Distance from venue:* 650m
+
+*Working hours:*
+Friday: 10:30 - 03:00 | Saturday: 10:30 - 03:00 | Sunday: 10:30 - 03:00 
+
+*Price range*: 4-5 Eur
+
+*Description:* Takeaway burgers, shaurma, kebab, wraps. Works until 3am!
+
+### [Depoo street food: Spice Wagon](http://spicewagon.ee/#menu)
+*Address:* [Telliskivi 62, 10412 Tallinn](https://goo.gl/maps/1mmkdNSUDzA2)
+
+*Distance from venue:* 650m
+
+*Working hours:*
+Friday: 11:00 - 23:00 | Saturday: 11:00 - 23:00 | Sunday: 11:00 - 23:00 
+
+*Price range*: 
+* starters: 4-10 Eur
+* salads: 4-5 Eur
+* main dishes 8-11 Eur
+* noodles/wok: 6-8 Eur
+
+*Description:* Takeaway wraps, wok, salads, rice, noodles, asian-style takeaway. Selection of Indian vegetarian take away.
 
 ## Supermarkets
 ### Rimi near Niine
