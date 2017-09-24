@@ -289,7 +289,7 @@ Friday, Saturday, Sunday: 11:00 - 23:00 | Pizza delivery: 09:00 - 03:00
 *Working hours:*
 Friday: 00:00 - 24:00 | Saturday: 00:00 - 24:00 | Sunday: 00:00 - 24:00 
 
-*Price range*: 6-12 Eur
+*Price range*: 6-15 Eur
 
 #### [Fastfood delivery: Pizza Kuller](http://www.pizzakuller.ee/)
 *Website:* http://www.pizzakuller.ee/
@@ -297,7 +297,7 @@ Friday: 00:00 - 24:00 | Saturday: 00:00 - 24:00 | Sunday: 00:00 - 24:00
 *Working hours:*
 Friday, Saturday, Sunday: 10:00 - 04:00
 
-*Price range*: 6-12 Eur
+*Price range*: 6-15 Eur
 
 
 ## Supermarkets
