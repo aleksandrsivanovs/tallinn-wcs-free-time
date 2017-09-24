@@ -31,6 +31,8 @@ Old Town Swing 2017 will be held in the heart of Kalamaja - in [Salme Kultuurike
 
 ## Coffee / Cafe / Bakery
 ### [T35 Bakery & Speciality Coffee](https://www.facebook.com/T35Bakery/)
+*Website:* https://www.facebook.com/T35Bakery
+
 *Address:* [Tööstuse 35, 10413 Tallinn](https://goo.gl/maps/pMf2Dq2mA5U2)
 
 *Distance from venue:* 230m
@@ -46,6 +48,8 @@ Friday: 09:00 - 15:00 | Saturday: 10:00 – 17:00 | Sunday: 10:00 – 17:00
 Closest coffee and bakery place to the Old Town Swing 2017 venue. Very good coffee (for takeaway as well) and tasty pastries. The only drawback - working hours are quite short.
 
 ### [Renard coffee shop](https://www.facebook.com/renardcoffeeshop/)
+*Website:* https://www.facebook.com/renardcoffeeshop
+
 *Address:* [Telliskivi 62, 10412 Tallinn](https://goo.gl/maps/PKRFiFDsQPp)
 
 *Distance from venue:* 650m
@@ -62,6 +66,8 @@ Friday: 09:00 - 19:00 | Saturday: 11:00 – 19:00 | Sunday: 11:00 – 18:00
 For all motorcycle enthusiasts and for people who dig custom bikes. Enjoy coffee and cakes in hipsterish Telliskivi area in a motor shop while observing some of the most beautiful custom motorcycles built in Tallinn.
 
 ### [Reval Cafe](https://revalcafe.ee/kohvikud/telliskivi/)
+*Website:* https://revalcafe.ee/kohvikud/telliskivi
+
 *Address:* [Telliskivi 60a, 10412 Tallinn](https://goo.gl/maps/GxppRvUJdBu)
 
 *Distance from venue:* 800m
@@ -77,6 +83,8 @@ Friday: 08:00 - 21:00 | Saturday: 09:00 – 21:00 | Sunday: 09:00 – 19:00
 
 ## Food places
 ### [Soo Uulits](https://www.uulits.ee/kontakt)
+*Website:* https://www.uulits.ee/kontakt
+
 *Address:* [Soo 1B/6, 10414 Tallinn](https://goo.gl/maps/To67KzAsBK32)
 
 *Distance from venue:* 900m
@@ -92,6 +100,8 @@ Friday: 12:00 - 23:00 | Saturday: 12:00 – 23:00 | Sunday: 12:00 – 22:00
 *Description:* Probably the best burgers in Tallinn - good selection of juicy and tasty burgers + some craft beer / lemonade.
 
 ### [Kohvik Sesoon](http://kohviksesoon.ee/tana-lounaks-234/)
+*Website:* http://kohviksesoon.ee
+
 *Address:* [Niine 11, 10414 Tallinn](https://goo.gl/maps/F3wXe2Lrr562)
 
 *Distance from venue:* 800m
@@ -107,6 +117,8 @@ Friday: 11:00 - 23:00 | Saturday: 11:00 – 23:00 | Sunday: 11:00 – 14:00 (bru
 *Description:* Nice food, seasoned menu.  
 
 ### [Boheem Cafe](https://www.facebook.com/Boheem.Kohvik.Kalamajas)
+*Website:* https://www.facebook.com/Boheem.Kohvik.Kalamajas
+
 *Address:* [Kopli 18, 10412 Tallinn](https://goo.gl/maps/iRKtGLZRZaG2)
 
 *Distance from venue:* 650m
@@ -121,6 +133,8 @@ Friday: 09:00 - 23:00 | Saturday: 10:00 – 23:00 | Sunday: 10:00 – 23:00
 *Description:* Very good quality of food + hipsterish atmosphere
 
 ### [St. Vitus](http://www.vitus.ee/)
+*Website:* http://www.vitus.ee
+
 *Address:* [Telliskivi 61b, 10412 Tallinn](https://goo.gl/maps/nfGHX8ytC8T2)
 
 *Distance from venue:* 650m
@@ -136,6 +150,8 @@ Friday: 12:00 - 23:00 | Saturday: 12:00 – 02:00 (kitchen closes @ 23:00) | Sun
 *Description:* Craft brewery with simple, yet tasty, pub-style food.
 
 ### [La tabla](https://www.latabla.ee/)
+*Website:* https://www.latabla.ee
+
 *Address:* [Telliskivi 60, 10149 Tallinn](https://goo.gl/maps/exQYBMWjKPq)
 
 *Distance from venue:* 750m
@@ -152,6 +168,8 @@ Friday: 12:00 - 23:00 | Saturday: 12:00 – 23:00 | Sunday: 12:00 – 21:00
 *Description:* Latin American style: tacos, Churrasco, grilled angus beef, a variety of seafood dishes
 
 ### [Kivi Paber Käärid](http://kivipaber.ee/en/)
+*Website:* http://kivipaber.ee/en
+
 *Address:* [Telliskivi 60a C4, 10149 Tallinn](https://goo.gl/maps/VStzmyLPoBy)
 
 *Distance from venue:* 1000m
@@ -168,6 +186,8 @@ Friday: 11:00 - 02:00 | Saturday: 11:00 – 02:00 | Sunday: 11:00 – 23:00
 *Description:* 100% gluten-free cuisine offers a simple but fresh approach to healthy eating.
 
 ### [F-Hoone](http://www.fhoone.ee/en/)
+*Website:* http://www.fhoone.ee/en
+
 *Address:* [Telliskivi 60, 10412 Tallinn](https://goo.gl/maps/AwLYN7qTUeS2)
 
 *Distance from venue:* 800m
@@ -184,6 +204,8 @@ Friday: 09:00 - 24:00 | Saturday: 09:00 – 24:00 | Sunday: 09:00 – 22:00
 *Description:* Good food for reasonably small price. Very popular place amongst locals, so, the place might be full and service might be slow.
 
 ### [Lendav Taldrik](http://www.lendavtaldrik.com/en/)
+*Website:* http://www.lendavtaldrik.com/en
+
 *Address:* [Telliskivi 60A, 10412 Tallinn](https://goo.gl/maps/VAx4vvXBSem)
 
 *Distance from venue:* 900m
@@ -198,6 +220,8 @@ Friday: 12:00 - 01:00 | Saturday: 12:00 – 01:00 | Sunday: 12:00 – 22:00
 *Description:* Asian-inspired cuisine.
 
 ### [Bueno Gourmet food track](https://www.facebook.com/Bueno-Gourmet-1479392462305618/)
+*Website:* https://www.facebook.com/Bueno-Gourmet-1479392462305618
+
 *Address:* [Telliskivi 60a, 10412 Tallinn](https://goo.gl/maps/NGDxBFEo5zn)
 
 *Distance from venue:* 900m
@@ -222,6 +246,8 @@ Friday: 10:30 - 03:00 | Saturday: 10:30 - 03:00 | Sunday: 10:30 - 03:00
 *Description:* Takeaway burgers, shaurma, kebab, wraps. Works until 3am!
 
 ### [Depoo street food: Spice Wagon](http://spicewagon.ee/#menu)
+*Website:* http://spicewagon.ee/#menu
+
 *Address:* [Telliskivi 62, 10412 Tallinn](https://goo.gl/maps/1mmkdNSUDzA2)
 
 *Distance from venue:* 650m
@@ -261,6 +287,8 @@ Friday: 11:00 - 23:00 | Saturday: 11:00 - 23:00 | Sunday: 11:00 - 23:00
 
 ## Souvernirs / designer shops
 ### [Telliskivi Poetänav](http://telliskivi.eu/en/stores/)
+*Website:* http://telliskivi.eu/en/stores
+
 *Address:* [Telliskivi 60A, 10412 Tallinn](https://goo.gl/maps/cXcDVB7SuM42)
 
 *Distance from venue:* 800m
