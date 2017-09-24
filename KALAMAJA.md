@@ -23,8 +23,8 @@ Old Town Swing 2017 will be held in the heart of Kalamaja - in [Salme Kultuurike
   * [Depoo street food: Shaurma kebab](#depoo-street-food-shaurma-kebab)
   * [Depoo street food: Spice Wagon](#depoo-street-food-spice-wagon)
   * [Peetri Pizza](#peetri-pizza)
-  * [Fastfood delivery: Pizza Koju](#)
-  * [Fastfood delivery: Pizza Kuller](#)
+  * [Fastfood delivery: Pizza Koju](#fastfood-delivery-pizza-koju)
+  * [Fastfood delivery: Pizza Kuller](#fastfood-delivery-pizza-kuller)
 
 * [Supermarkets](#supermarkets)
   * [Rimi supermarket](#rimi-supermarket)
