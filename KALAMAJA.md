@@ -22,6 +22,10 @@ Old Town Swing 2017 will be held in the heart of Kalamaja - in [Salme Kultuurike
   * [Bueno Gourmet food track](#bueno-gourmet-food-track)
   * [Depoo street food: Shaurma kebab](#depoo-street-food-shaurma-kebab)
   * [Depoo street food: Spice Wagon](#depoo-street-food-spice-wagon)
+  * [Peetri Pizza](#peetri-pizza)
+  * [Fastfood delivery: Pizza Koju](#)
+  * [Fastfood delivery: Pizza Kuller](#)
+
 * [Supermarkets](#supermarkets)
   * [Rimi supermarket](#rimi-supermarket)
   * [mini-Rimi](#mini-rimi)
@@ -262,6 +266,39 @@ Friday: 11:00 - 23:00 | Saturday: 11:00 - 23:00 | Sunday: 11:00 - 23:00
 * noodles/wok: 6-8 Eur
 
 *Description:* Takeaway wraps, wok, salads, rice, noodles, asian-style takeaway. Selection of Indian vegetarian take away.
+
+### [Peetri Pizza](http://www.peetripizza.ee/en)
+*Website:* http://www.peetripizza.ee/en
+
+*Delivery website:*: http://peetripizza.bringit.ee/eng/Open/
+
+*Address:* [Tööstuse 47A, 10411 Tallinn](https://goo.gl/maps/vMdZk5TP17T2)
+
+*Distance from venue:* 450m
+
+*Working hours:*
+Friday, Saturday, Sunday: 11:00 - 23:00 | Pizza delivery: 09:00 - 03:00
+
+*Price range*: 6-9 Eur
+
+*Description:* One of the best takeaway pizzas in Tallinn. (You can choose thin or thick crust).
+
+### [Fastfood delivery: Pizza Koju](https://pizzakoju.ee/en/)
+*Website:* https://pizzakoju.ee/en/
+
+*Working hours:*
+Friday: 00:00 - 24:00 | Saturday: 00:00 - 24:00 | Sunday: 00:00 - 24:00 
+
+*Price range*: 6-12 Eur
+
+#### [Fastfood delivery: Pizza Kuller](http://www.pizzakuller.ee/)
+*Website:* http://www.pizzakuller.ee/
+
+*Working hours:*
+Friday, Saturday, Sunday: 10:00 - 04:00
+
+*Price range*: 6-12 Eur
+
 
 ## Supermarkets
 ### Rimi supermarket
