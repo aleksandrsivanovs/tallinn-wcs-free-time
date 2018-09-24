@@ -3,7 +3,7 @@ New cafes, bars and galleries have transformed the former industrial complexes o
 
 Often called the “hipsterville” of Tallinn, this once closed off Soviet border zone is conveniently located between the scenic Tallinn coast and Old Town and hides some real architectural gems.
 
-Old Town Swing 2017 will be held in the heart of Kalamaja - in [Salme Kultuurikeskus](http://salme.ee/) on [Salme tn. 12, Tallinn, 10413](https://goo.gl/maps/XJWeH2CZ7LD2)
+Old Town Swing 2018 will be held in the heart of Kalamaja - in [Salme Kultuurikeskus](http://salme.ee/) on [Salme tn. 12, Tallinn, 10413](https://goo.gl/maps/XJWeH2CZ7LD2)
 
 ## Table of contents
 * [Coffee / Cafe / Bakery](#coffee--cafe--bakery)
@@ -49,7 +49,7 @@ Friday: 09:00 - 15:00 | Saturday: 10:00 – 17:00 | Sunday: 10:00 – 17:00
 * pastries 2-4 Eur  
 
 *Description:*
-Closest coffee and bakery place to the Old Town Swing 2017 venue. Very good coffee (for takeaway as well) and tasty pastries. The only drawback - working hours are quite short.
+Closest coffee and bakery place to the Old Town Swing 2018 venue. Very good coffee (for takeaway as well) and tasty pastries. The only drawback - working hours are quite short.
 
 ### [Renard coffee shop](https://www.facebook.com/renardcoffeeshop/)
 *Website:* https://www.facebook.com/renardcoffeeshop
