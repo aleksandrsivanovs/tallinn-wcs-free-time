@@ -8,7 +8,6 @@ Old Town Swing 2018 will be held in the heart of Kalamaja - in [Salme Kultuurike
 ## Table of contents
 * [Coffee / Cafe / Bakery](#coffee--cafe--bakery)
   * [T35 Bakery & Speciality Coffee](#t35-bakery--speciality-coffee)
-  * [Renard coffee shop](#renard-coffee-shop)
   * [Reval Cafe](#reval-cafe)
 * [Food places](#food-places)
   * [Soo Uulits](#soo-uulits)
@@ -50,24 +49,6 @@ Friday: 09:00 - 15:00 | Saturday: 10:00 – 17:00 | Sunday: 10:00 – 17:00
 
 *Description:*
 Closest coffee and bakery place to the Old Town Swing 2018 venue. Very good coffee (for takeaway as well) and tasty pastries. The only drawback - working hours are quite short.
-
-### [Renard coffee shop](https://www.facebook.com/renardcoffeeshop/)
-*Website:* https://www.facebook.com/renardcoffeeshop
-
-*Address:* [Telliskivi 62, 10412 Tallinn](https://goo.gl/maps/PKRFiFDsQPp)
-
-*Distance from venue:* 650m
-
-*Working hours:*
-Friday: 09:00 - 19:00 | Saturday: 11:00 – 19:00 | Sunday: 11:00 – 18:00 
-
-*Price range*:
-* coffee 2-4 Eur
-* pastries 2-5 Eur  
-* salads 6-10 Eur
-
-*Description:*
-For all motorcycle enthusiasts and for people who dig custom bikes. Enjoy coffee and cakes in hipsterish Telliskivi area in a motor shop while observing some of the most beautiful custom motorcycles built in Tallinn.
 
 ### [Reval Cafe](https://revalcafe.ee/kohvikud/telliskivi/)
 *Website:* https://revalcafe.ee/kohvikud/telliskivi
